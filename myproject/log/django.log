@@ -1,1 +1,19 @@
 
+INFO 2024-01-17 15:16:47,916 autoreload 19612 80692 Watching for file changes with StatReloader
+WARNING 2024-01-17 15:16:53,972 log 19612 79704 Not Found: /
+WARNING 2024-01-17 15:16:54,007 basehttp 19612 79704 "GET / HTTP/1.1" 404 2273
+WARNING 2024-01-17 15:16:54,444 log 19612 79704 Not Found: /favicon.ico
+WARNING 2024-01-17 15:16:54,449 basehttp 19612 79704 "GET /favicon.ico HTTP/1.1" 404 2324
+WARNING 2024-01-17 15:17:00,361 log 19612 76848 Not Found: /
+WARNING 2024-01-17 15:17:00,370 basehttp 19612 76848 "GET / HTTP/1.1" 404 2273
+INFO 2024-01-17 15:17:06,058 basehttp 19612 76848 "GET /hmt/ HTTP/1.1" 200 238
+INFO 2024-01-17 15:17:16,885 basehttp 19612 63300 "GET /hmt/about/ HTTP/1.1" 200 206
+INFO 2024-01-17 15:17:25,748 basehttp 19612 78092 "GET /hmt/ HTTP/1.1" 200 238
+INFO 2024-01-17 15:19:14,212 autoreload 19612 80692 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp2\models.py changed, reloading.
+INFO 2024-01-17 15:19:18,968 autoreload 81044 81048 Watching for file changes with StatReloader
+INFO 2024-01-17 17:49:39,492 autoreload 81044 81048 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp2\models.py changed, reloading.
+INFO 2024-01-17 17:49:43,408 autoreload 66884 66552 Watching for file changes with StatReloader
+INFO 2024-01-17 17:50:11,082 autoreload 66884 66552 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp2\models.py changed, reloading.
+INFO 2024-01-17 17:50:16,269 autoreload 82496 74084 Watching for file changes with StatReloader
+INFO 2024-01-17 17:56:42,838 autoreload 82364 77524 Watching for file changes with StatReloader
+INFO 2024-01-17 18:02:55,354 autoreload 80500 80008 Watching for file changes with StatReloader
