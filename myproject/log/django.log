@@ -1,0 +1,958 @@
+INFO 2024-01-23 23:13:52,922 autoreload 17428 7208 Watching for file changes with StatReloader
+INFO 2024-01-23 23:13:56,241 basehttp 17428 15860 "GET /hmt/orders/7/1/ HTTP/1.1" 200 695
+INFO 2024-01-24 17:01:55,555 autoreload 26980 15968 Watching for file changes with StatReloader
+INFO 2024-01-24 17:02:00,882 basehttp 26980 26676 "GET / HTTP/1.1" 200 247
+WARNING 2024-01-24 17:02:02,233 log 26980 26676 Not Found: /favicon.ico
+WARNING 2024-01-24 17:02:02,243 basehttp 26980 26676 "GET /favicon.ico HTTP/1.1" 404 2634
+INFO 2024-01-24 17:02:27,574 basehttp 26980 19712 "GET /les4/user/add HTTP/1.1" 301 0
+INFO 2024-01-24 17:02:27,887 basehttp 26980 26524 "GET /les4/user/add/ HTTP/1.1" 200 825
+INFO 2024-01-24 17:46:33,589 autoreload 26980 15968 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 17:46:38,288 autoreload 28056 26164 Watching for file changes with StatReloader
+INFO 2024-01-24 17:46:57,772 autoreload 28056 26164 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 17:47:02,198 autoreload 27668 28284 Watching for file changes with StatReloader
+INFO 2024-01-24 17:49:43,611 autoreload 27668 28284 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 17:49:47,175 autoreload 26160 26940 Watching for file changes with StatReloader
+INFO 2024-01-24 17:50:49,726 autoreload 26160 26940 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 17:50:53,229 autoreload 26772 26188 Watching for file changes with StatReloader
+INFO 2024-01-24 17:52:31,147 autoreload 26772 26188 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-01-24 17:52:33,640 autoreload 26024 26920 Watching for file changes with StatReloader
+INFO 2024-01-24 17:52:36,642 autoreload 26024 26920 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-01-24 17:52:39,857 autoreload 25420 12452 Watching for file changes with StatReloader
+INFO 2024-01-24 17:52:56,511 autoreload 25420 12452 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-01-24 17:53:00,297 autoreload 26804 26008 Watching for file changes with StatReloader
+INFO 2024-01-24 17:53:17,554 autoreload 26804 26008 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-01-24 17:53:20,383 autoreload 28272 20832 Watching for file changes with StatReloader
+INFO 2024-01-24 17:53:28,346 autoreload 28272 20832 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-01-24 17:53:31,957 autoreload 25092 22196 Watching for file changes with StatReloader
+INFO 2024-01-24 17:55:39,894 basehttp 25092 28324 "GET /les4/forms HTTP/1.1" 301 0
+INFO 2024-01-24 17:55:40,103 basehttp 25092 25904 "GET /les4/forms/ HTTP/1.1" 200 1533
+INFO 2024-01-24 18:44:10,767 autoreload 25092 22196 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:44:17,505 autoreload 19876 25492 Watching for file changes with StatReloader
+INFO 2024-01-24 18:44:43,141 autoreload 19876 25492 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:44:47,794 autoreload 15612 7204 Watching for file changes with StatReloader
+INFO 2024-01-24 18:45:08,256 autoreload 15612 7204 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:45:12,241 autoreload 24516 25712 Watching for file changes with StatReloader
+INFO 2024-01-24 18:46:15,284 autoreload 24516 25712 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:46:17,944 autoreload 27416 24800 Watching for file changes with StatReloader
+INFO 2024-01-24 18:46:42,017 autoreload 27416 24800 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:46:45,366 autoreload 24804 25712 Watching for file changes with StatReloader
+INFO 2024-01-24 18:47:58,963 autoreload 24804 25712 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:48:02,659 autoreload 26148 26932 Watching for file changes with StatReloader
+INFO 2024-01-24 18:51:20,714 autoreload 26148 26932 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:51:24,624 autoreload 22344 16632 Watching for file changes with StatReloader
+INFO 2024-01-24 18:51:44,100 autoreload 22344 16632 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\views.py changed, reloading.
+INFO 2024-01-24 18:51:48,714 autoreload 26220 1768 Watching for file changes with StatReloader
+INFO 2024-01-24 18:52:21,471 basehttp 26220 29352 "GET /les4/forms/ HTTP/1.1" 200 2154
+INFO 2024-01-24 18:56:50,453 autoreload 26220 1768 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 18:56:54,985 autoreload 1276 29280 Watching for file changes with StatReloader
+INFO 2024-01-24 18:57:31,514 basehttp 1276 20688 "GET /les4/forms/ HTTP/1.1" 200 2154
+INFO 2024-01-24 19:00:15,101 autoreload 1276 29280 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 19:00:18,430 autoreload 14536 13412 Watching for file changes with StatReloader
+INFO 2024-01-24 19:00:59,674 autoreload 14536 13412 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 19:01:02,086 autoreload 27656 27312 Watching for file changes with StatReloader
+INFO 2024-01-24 19:01:27,509 autoreload 27656 27312 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 19:01:30,346 autoreload 29016 27520 Watching for file changes with StatReloader
+INFO 2024-01-24 19:01:35,631 autoreload 29016 27520 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 19:01:39,967 autoreload 27120 18516 Watching for file changes with StatReloader
+INFO 2024-01-24 19:02:05,462 autoreload 27120 18516 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 19:02:08,650 autoreload 29064 28624 Watching for file changes with StatReloader
+INFO 2024-01-24 19:06:00,967 autoreload 29064 28624 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\models.py changed, reloading.
+INFO 2024-01-24 19:06:03,083 autoreload 23272 22864 Watching for file changes with StatReloader
+INFO 2024-01-24 19:17:44,061 autoreload 452 29556 Watching for file changes with StatReloader
+INFO 2024-01-24 19:17:58,451 autoreload 452 29556 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-01-24 19:18:00,497 autoreload 28832 27508 Watching for file changes with StatReloader
+INFO 2024-01-24 19:18:10,876 basehttp 28832 22884 "GET /les4/user/ HTTP/1.1" 200 864
+INFO 2024-01-24 19:18:22,179 basehttp 28832 28856 "POST /les4/user/ HTTP/1.1" 200 1150
+INFO 2024-01-24 19:18:50,193 basehttp 28832 16472 "POST /les4/user/ HTTP/1.1" 200 1020
+INFO 2024-01-24 19:19:59,368 basehttp 28832 7360 "POST /les4/user/ HTTP/1.1" 200 919
+INFO 2024-01-24 19:21:15,709 basehttp 28832 17372 "POST /les4/user/ HTTP/1.1" 200 919
+INFO 2024-01-24 19:21:24,633 basehttp 28832 17372 "GET /les4/user/ HTTP/1.1" 200 864
+INFO 2024-01-24 19:26:32,420 autoreload 28832 27508 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 19:26:35,005 autoreload 28876 18516 Watching for file changes with StatReloader
+INFO 2024-01-24 19:26:38,218 autoreload 28876 18516 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-24 19:26:41,801 autoreload 10360 28716 Watching for file changes with StatReloader
+INFO 2024-01-24 19:29:09,880 autoreload 10360 28716 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-24 19:29:13,033 autoreload 28944 10992 Watching for file changes with StatReloader
+INFO 2024-01-24 19:29:22,014 autoreload 28944 10992 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-24 19:38:02,942 autoreload 22876 1316 Watching for file changes with StatReloader
+INFO 2024-01-24 19:38:11,465 basehttp 22876 25092 "GET /les4/upload/ HTTP/1.1" 200 660
+INFO 2024-01-24 19:38:30,692 basehttp 22876 12644 "POST /les4/upload/ HTTP/1.1" 200 660
+INFO 2024-01-25 10:58:33,928 autoreload 22876 1316 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-25 10:58:38,790 autoreload 12380 30160 Watching for file changes with StatReloader
+INFO 2024-01-25 10:58:48,874 autoreload 12380 30160 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-25 10:58:53,212 autoreload 27600 32004 Watching for file changes with StatReloader
+INFO 2024-01-25 10:58:56,856 autoreload 27600 32004 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-25 10:58:59,884 autoreload 29516 25256 Watching for file changes with StatReloader
+INFO 2024-01-25 10:59:44,775 autoreload 29516 25256 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-25 10:59:46,862 autoreload 6184 21244 Watching for file changes with StatReloader
+INFO 2024-01-25 11:00:10,623 autoreload 6184 21244 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-01-25 11:00:13,264 autoreload 3184 28688 Watching for file changes with StatReloader
+INFO 2024-01-29 13:11:27,018 autoreload 1308 25048 Watching for file changes with StatReloader
+INFO 2024-01-29 13:11:33,293 basehttp 1308 26552 "GET / HTTP/1.1" 200 247
+WARNING 2024-01-29 13:11:45,151 log 1308 28540 Not Found: /favicon.ico
+WARNING 2024-01-29 13:11:45,178 basehttp 1308 28540 "GET /favicon.ico HTTP/1.1" 404 2634
+INFO 2024-01-29 13:12:12,445 basehttp 1308 24760 "GET /hmt/upload HTTP/1.1" 301 0
+INFO 2024-01-29 13:12:12,622 basehttp 1308 14616 "GET /hmt/upload/ HTTP/1.1" 200 651
+INFO 2024-01-29 13:13:08,500 autoreload 1308 25048 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\forms.py changed, reloading.
+INFO 2024-01-29 13:13:11,070 autoreload 18452 27580 Watching for file changes with StatReloader
+INFO 2024-01-29 13:16:48,146 autoreload 9488 13544 Watching for file changes with StatReloader
+INFO 2024-01-29 13:16:51,641 basehttp 9488 20836 "GET /hmt/upload/ HTTP/1.1" 200 708
+INFO 2024-01-29 13:19:12,460 autoreload 9488 13544 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\forms.py changed, reloading.
+INFO 2024-01-29 13:19:14,645 autoreload 1804 22544 Watching for file changes with StatReloader
+INFO 2024-01-29 13:19:17,586 basehttp 1804 27196 "GET /hmt/upload/ HTTP/1.1" 200 867
+INFO 2024-01-29 13:19:53,244 autoreload 1804 22544 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\forms.py changed, reloading.
+INFO 2024-01-29 13:19:55,375 autoreload 22696 3076 Watching for file changes with StatReloader
+INFO 2024-01-29 13:20:01,987 basehttp 22696 25548 "GET /hmt/upload/ HTTP/1.1" 200 1903
+ERROR 2024-01-29 13:22:29,068 log 22696 17720 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2112, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'Product'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 47, in upload_image
+    product = Product.objects.filter(id=form.cleaned_data['product'])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1602, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1548, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1378, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 362, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2114, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <Product: Product name: knife_1, quantity: 1>.
+ERROR 2024-01-29 13:22:29,093 basehttp 22696 17720 "POST /hmt/upload/ HTTP/1.1" 500 134343
+INFO 2024-01-29 13:35:47,079 autoreload 22696 3076 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 13:35:49,587 autoreload 11528 24712 Watching for file changes with StatReloader
+INFO 2024-01-29 13:35:57,982 basehttp 11528 27576 "POST /hmt/upload/ HTTP/1.1" 200 1911
+INFO 2024-01-29 13:36:24,109 basehttp 11528 25960 "POST /hmt/upload/ HTTP/1.1" 200 1911
+INFO 2024-01-29 13:36:36,175 basehttp 11528 22692 "POST /hmt/upload/ HTTP/1.1" 200 1911
+ERROR 2024-01-29 13:36:40,465 log 11528 22692 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name, product.image)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\filesystem.py", line 110, in _save
+    for chunk in content.chunks():
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\base.py", line 55, in chunks
+    self.seek(0)
+    ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\utils.py", line 46, in <lambda>
+    seek = property(lambda self: self.file.seek)
+                                 ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 46, in _get_file
+    self._require_file()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-01-29 13:36:40,478 basehttp 11528 22692 "POST /hmt/upload/ HTTP/1.1" 500 94196
+INFO 2024-01-29 13:37:54,462 autoreload 11528 24712 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\forms.py changed, reloading.
+INFO 2024-01-29 13:37:57,233 autoreload 10036 22068 Watching for file changes with StatReloader
+INFO 2024-01-29 13:38:10,480 autoreload 19024 27196 Watching for file changes with StatReloader
+INFO 2024-01-29 13:41:57,519 autoreload 26804 25864 Watching for file changes with StatReloader
+ERROR 2024-01-29 13:42:03,533 log 26804 26936 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name, product.image)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\filesystem.py", line 110, in _save
+    for chunk in content.chunks():
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\base.py", line 55, in chunks
+    self.seek(0)
+    ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\utils.py", line 46, in <lambda>
+    seek = property(lambda self: self.file.seek)
+                                 ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 46, in _get_file
+    self._require_file()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-01-29 13:42:03,561 basehttp 26804 26936 "POST /hmt/upload/ HTTP/1.1" 500 94234
+ERROR 2024-01-29 13:42:09,162 log 26804 26936 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name, product.image)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\filesystem.py", line 110, in _save
+    for chunk in content.chunks():
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\base.py", line 55, in chunks
+    self.seek(0)
+    ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\utils.py", line 46, in <lambda>
+    seek = property(lambda self: self.file.seek)
+                                 ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 46, in _get_file
+    self._require_file()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-01-29 13:42:09,176 basehttp 26804 26936 "POST /hmt/upload/ HTTP/1.1" 500 94234
+INFO 2024-01-29 13:43:03,920 autoreload 26804 25864 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 13:43:07,884 autoreload 19116 13904 Watching for file changes with StatReloader
+ERROR 2024-01-29 13:43:08,600 log 19116 20940 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(image.name, image)
+            ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+ERROR 2024-01-29 13:43:08,608 basehttp 19116 20940 "POST /hmt/upload/ HTTP/1.1" 500 69510
+INFO 2024-01-29 13:46:36,177 autoreload 19116 13904 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 13:46:38,979 autoreload 27864 15660 Watching for file changes with StatReloader
+ERROR 2024-01-29 13:46:43,893 log 27864 20644 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2112, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'Product'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 47, in upload_image
+    product = Product.objects.filter(id=form.cleaned_data['product'])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1602, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1548, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1378, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 362, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2114, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <Product: Product name: knife_1, quantity: 1>.
+ERROR 2024-01-29 13:46:43,922 basehttp 27864 20644 "POST /hmt/upload/ HTTP/1.1" 500 134085
+INFO 2024-01-29 13:46:49,817 basehttp 27864 20644 "GET /hmt/upload/ HTTP/1.1" 200 1756
+ERROR 2024-01-29 13:47:10,078 log 27864 20752 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2112, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'Product'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 47, in upload_image
+    product = Product.objects.filter(id=form.cleaned_data['product'])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1602, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1634, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1548, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\query.py", line 1378, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 362, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\lookups.py", line 88, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 2114, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <Product: Product name: knife_1, quantity: 1>.
+ERROR 2024-01-29 13:47:10,093 basehttp 27864 20752 "POST /hmt/upload/ HTTP/1.1" 500 134294
+INFO 2024-01-29 13:47:33,014 autoreload 27864 15660 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 13:47:36,203 autoreload 23904 18376 Watching for file changes with StatReloader
+INFO 2024-01-29 13:47:37,250 basehttp 23904 25224 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 13:48:04,063 basehttp 23904 844 "POST /hmt/upload/ HTTP/1.1" 200 1764
+ERROR 2024-01-29 13:48:07,635 log 23904 844 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name, product.image)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\filesystem.py", line 110, in _save
+    for chunk in content.chunks():
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\base.py", line 55, in chunks
+    self.seek(0)
+    ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\utils.py", line 46, in <lambda>
+    seek = property(lambda self: self.file.seek)
+                                 ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 46, in _get_file
+    self._require_file()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-01-29 13:48:07,646 basehttp 23904 844 "POST /hmt/upload/ HTTP/1.1" 500 94234
+ERROR 2024-01-29 13:58:12,551 log 23904 14560 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name, product.image)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\filesystem.py", line 110, in _save
+    for chunk in content.chunks():
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\base.py", line 55, in chunks
+    self.seek(0)
+    ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\utils.py", line 46, in <lambda>
+    seek = property(lambda self: self.file.seek)
+                                 ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 46, in _get_file
+    self._require_file()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-01-29 13:58:12,557 basehttp 23904 14560 "POST /hmt/upload/ HTTP/1.1" 500 94234
+INFO 2024-01-29 13:58:29,555 basehttp 23904 20940 "GET /hmt/upload/ HTTP/1.1" 200 1756
+INFO 2024-01-29 13:58:42,334 basehttp 23904 12156 "POST /hmt/upload/ HTTP/1.1" 200 1764
+ERROR 2024-01-29 13:58:44,049 log 23904 18288 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name, product.image)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\filesystem.py", line 110, in _save
+    for chunk in content.chunks():
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\base.py", line 55, in chunks
+    self.seek(0)
+    ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\utils.py", line 46, in <lambda>
+    seek = property(lambda self: self.file.seek)
+                                 ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 46, in _get_file
+    self._require_file()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-01-29 13:58:44,238 basehttp 23904 18288 "POST /hmt/upload/ HTTP/1.1" 500 94234
+INFO 2024-01-29 14:04:34,785 autoreload 23904 18376 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 14:04:37,696 autoreload 10400 7652 Watching for file changes with StatReloader
+ERROR 2024-01-29 14:04:43,373 log 10400 7516 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(image.name, image)
+            ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+ERROR 2024-01-29 14:04:43,381 basehttp 10400 7516 "POST /hmt/upload/ HTTP/1.1" 500 69659
+INFO 2024-01-29 14:04:49,060 basehttp 10400 7516 "GET /hmt/upload/ HTTP/1.1" 200 1756
+INFO 2024-01-29 14:05:03,682 basehttp 10400 8836 "POST /hmt/upload/ HTTP/1.1" 200 1764
+ERROR 2024-01-29 14:05:06,483 log 10400 8836 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(image.name, image)
+            ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+ERROR 2024-01-29 14:05:06,492 basehttp 10400 8836 "POST /hmt/upload/ HTTP/1.1" 500 69659
+INFO 2024-01-29 14:21:42,139 autoreload 10400 7652 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 14:21:44,804 autoreload 24420 27116 Watching for file changes with StatReloader
+INFO 2024-01-29 14:21:58,396 basehttp 24420 14888 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 14:22:06,907 basehttp 24420 28496 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 14:22:08,786 basehttp 24420 28496 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 14:24:45,643 basehttp 24420 25436 "GET /hmt/upload/ HTTP/1.1" 200 1756
+INFO 2024-01-29 14:24:55,917 basehttp 24420 25160 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 14:24:57,554 basehttp 24420 25160 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 14:25:30,686 basehttp 24420 6212 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 14:25:32,001 basehttp 24420 6212 "POST /hmt/upload/ HTTP/1.1" 200 1764
+INFO 2024-01-29 14:31:03,082 autoreload 24420 27116 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 14:31:05,765 autoreload 25368 25928 Watching for file changes with StatReloader
+INFO 2024-01-29 14:31:58,823 basehttp 25368 22196 "GET /hmt/upload/ HTTP/1.1" 200 1756
+ERROR 2024-01-29 14:32:08,615 log 25368 9900 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name)
+TypeError: Storage.save() missing 1 required positional argument: 'content'
+ERROR 2024-01-29 14:32:08,622 basehttp 25368 9900 "POST /hmt/upload/ HTTP/1.1" 500 69612
+INFO 2024-01-29 14:33:26,873 autoreload 25368 25928 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 14:33:29,690 autoreload 26880 28272 Watching for file changes with StatReloader
+INFO 2024-01-29 14:33:35,887 basehttp 26880 1140 "GET /hmt/upload/ HTTP/1.1" 200 1756
+INFO 2024-01-29 14:33:43,933 basehttp 26880 2588 "POST /hmt/upload/ HTTP/1.1" 200 1764
+ERROR 2024-01-29 14:33:47,589 log 26880 14612 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 50, in upload_image
+    fs.save(product.image.name, product.image)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\storage\filesystem.py", line 110, in _save
+    for chunk in content.chunks():
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\base.py", line 55, in chunks
+    self.seek(0)
+    ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\files\utils.py", line 46, in <lambda>
+    seek = property(lambda self: self.file.seek)
+                                 ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 46, in _get_file
+    self._require_file()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-01-29 14:33:47,605 basehttp 26880 14612 "POST /hmt/upload/ HTTP/1.1" 500 94196
+INFO 2024-01-29 14:46:25,977 autoreload 26880 28272 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 14:46:29,793 autoreload 7072 19532 Watching for file changes with StatReloader
+INFO 2024-01-29 14:46:33,993 basehttp 7072 27252 "GET /hmt/upload/ HTTP/1.1" 200 1699
+ERROR 2024-01-29 14:46:43,893 log 7072 27252 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: myhometasks_product.price
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 47, in upload_image
+    form.save()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\forms\models.py", line 551, in save
+    self.instance.save()
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\query.py", line 1845, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: myhometasks_product.price
+ERROR 2024-01-29 14:46:43,940 basehttp 7072 27252 "POST /hmt/upload/ HTTP/1.1" 500 157469
+INFO 2024-01-29 14:47:30,873 autoreload 7072 19532 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 14:47:34,846 autoreload 20940 19580 Watching for file changes with StatReloader
+INFO 2024-01-29 15:02:11,136 autoreload 20940 19580 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:02:17,881 autoreload 18492 20440 Watching for file changes with StatReloader
+INFO 2024-01-29 15:05:37,539 autoreload 18492 20440 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:05:40,758 autoreload 27312 22036 Watching for file changes with StatReloader
+INFO 2024-01-29 15:08:56,175 autoreload 27312 22036 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:08:58,084 autoreload 13032 25000 Watching for file changes with StatReloader
+INFO 2024-01-29 15:09:03,567 basehttp 13032 28624 "GET /hmt/upload/ HTTP/1.1" 200 1699
+ERROR 2024-01-29 15:09:10,694 log 13032 19240 Internal Server Error: /hmt/upload/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 51, in upload_image
+    form.save(update_fields=['image'])
+TypeError: BaseModelForm.save() got an unexpected keyword argument 'update_fields'
+ERROR 2024-01-29 15:09:10,700 basehttp 13032 19240 "POST /hmt/upload/ HTTP/1.1" 500 69226
+INFO 2024-01-29 15:13:46,550 autoreload 13032 25000 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:13:48,719 autoreload 26552 20936 Watching for file changes with StatReloader
+INFO 2024-01-29 15:13:52,783 basehttp 26552 28496 "GET /hmt/upload/ HTTP/1.1" 200 1699
+INFO 2024-01-29 15:14:09,451 basehttp 26552 22484 "POST /hmt/upload/ HTTP/1.1" 200 1707
+INFO 2024-01-29 15:24:22,641 autoreload 26552 20936 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:24:25,906 autoreload 20336 24908 Watching for file changes with StatReloader
+INFO 2024-01-29 15:24:46,536 basehttp 20336 27564 "POST /hmt/upload/ HTTP/1.1" 200 1707
+INFO 2024-01-29 15:40:14,530 autoreload 20336 24908 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:40:19,577 autoreload 28584 26704 Watching for file changes with StatReloader
+INFO 2024-01-29 15:41:39,666 autoreload 28580 24356 Watching for file changes with StatReloader
+INFO 2024-01-29 15:44:53,537 autoreload 28580 24356 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:44:55,976 autoreload 28500 24080 Watching for file changes with StatReloader
+INFO 2024-01-29 15:45:24,831 basehttp 28500 17960 "GET /hmt/orders/7/10 HTTP/1.1" 301 0
+ERROR 2024-01-29 15:45:25,048 log 28500 22440 Internal Server Error: /hmt/orders/7/10/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 38, in client_orders
+    product_images.append(Product.objects.filter(id=product_in_order.product_id).image)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'image'
+ERROR 2024-01-29 15:45:25,054 basehttp 28500 22440 "GET /hmt/orders/7/10/ HTTP/1.1" 500 70830
+INFO 2024-01-29 15:46:42,850 autoreload 28104 26528 Watching for file changes with StatReloader
+ERROR 2024-01-29 15:47:02,645 log 28104 26840 Internal Server Error: /hmt/orders/7/10/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 38, in client_orders
+    product_images.append(Product.objects.filter(id=product_in_order.product_id).image)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'image'
+ERROR 2024-01-29 15:47:02,651 basehttp 28104 26840 "GET /hmt/orders/7/10/ HTTP/1.1" 500 70829
+INFO 2024-01-29 15:47:42,617 autoreload 28104 26528 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 15:47:46,433 autoreload 24712 20408 Watching for file changes with StatReloader
+INFO 2024-01-29 15:47:48,110 basehttp 24712 18348 "GET /hmt/orders/7/10/ HTTP/1.1" 200 469
+INFO 2024-01-29 15:57:27,554 autoreload 24712 20408 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\urls.py changed, reloading.
+INFO 2024-01-29 15:57:31,406 autoreload 24200 24804 Watching for file changes with StatReloader
+INFO 2024-01-29 15:57:45,479 basehttp 24200 17960 "GET /hmt/product_list HTTP/1.1" 301 0
+ERROR 2024-01-29 15:57:45,621 log 24200 27324 Internal Server Error: /hmt/product_list/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 61, in product_list
+    return render(request, 'product_list.html', {'products': products})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: product_list.html
+ERROR 2024-01-29 15:57:45,633 basehttp 24200 27324 "GET /hmt/product_list/ HTTP/1.1" 500 85042
+INFO 2024-01-29 15:59:10,500 autoreload 18604 11888 Watching for file changes with StatReloader
+ERROR 2024-01-29 15:59:16,475 log 18604 21052 Internal Server Error: /hmt/product_list/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 61, in product_list
+    return render(request, 'product_list.html', {'products': products})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: product_list.html
+ERROR 2024-01-29 15:59:16,482 basehttp 18604 21052 "GET /hmt/product_list/ HTTP/1.1" 500 85042
+INFO 2024-01-29 16:05:16,209 autoreload 19076 24236 Watching for file changes with StatReloader
+INFO 2024-01-29 16:05:24,791 basehttp 19076 25564 "GET /hmt/ HTTP/1.1" 200 238
+ERROR 2024-01-29 16:05:43,409 log 19076 22208 Internal Server Error: /hmt/product_list/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 61, in product_list
+    return render(request, 'product_list.html', {'products': products})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: product_list.html
+ERROR 2024-01-29 16:05:43,416 basehttp 19076 22208 "GET /hmt/product_list/ HTTP/1.1" 500 85042
+INFO 2024-01-29 16:06:29,480 autoreload 19076 24236 C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py changed, reloading.
+INFO 2024-01-29 16:06:32,837 autoreload 17728 25268 Watching for file changes with StatReloader
+ERROR 2024-01-29 16:06:33,849 log 17728 2224 Internal Server Error: /hmt/product_list/
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'end'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\myproject\myhometasks\views.py", line 61, in product_list
+    return render(request, 'myhometasks/product_list.html', {'products': products})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 860, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\defaulttags.py", line 960, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\Django\venv\Lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 13: 'end', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?
+ERROR 2024-01-29 16:06:33,881 basehttp 17728 2224 "GET /hmt/product_list/ HTTP/1.1" 500 205373
+INFO 2024-01-29 16:07:39,773 autoreload 22096 23868 Watching for file changes with StatReloader
+INFO 2024-01-29 16:07:43,188 basehttp 22096 29260 "GET /hmt/product_list/ HTTP/1.1" 200 1089
+WARNING 2024-01-29 16:07:43,443 log 22096 29260 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:07:43,448 log 22096 28972 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:07:43,452 basehttp 22096 29260 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:07:43,457 basehttp 22096 28972 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:07:43,478 log 22096 260 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:07:43,519 log 22096 17264 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:07:43,521 basehttp 22096 260 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:07:43,570 basehttp 22096 17264 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:10:21,258 autoreload 28172 7784 Watching for file changes with StatReloader
+INFO 2024-01-29 16:13:40,730 basehttp 28172 4028 "GET /hmt/product_list/ HTTP/1.1" 200 1133
+WARNING 2024-01-29 16:13:40,826 log 28172 4028 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:13:40,829 log 28172 10768 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:13:40,833 basehttp 28172 4028 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:13:40,838 basehttp 28172 10768 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:13:40,867 log 28172 28968 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:13:40,872 log 28172 29692 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:13:40,876 basehttp 28172 28968 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:13:40,881 basehttp 28172 29692 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:13:41,863 basehttp 28172 19948 "GET /hmt/product_list/ HTTP/1.1" 200 1133
+WARNING 2024-01-29 16:13:41,933 log 28172 19948 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:13:41,937 log 28172 21456 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:13:41,943 basehttp 28172 19948 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:13:41,947 basehttp 28172 21456 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:13:41,962 log 28172 6112 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:13:41,970 basehttp 28172 6112 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:13:41,976 log 28172 29460 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:13:41,978 basehttp 28172 29460 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:13:45,505 basehttp 28172 29460 "GET /hmt/product_list/ HTTP/1.1" 200 1133
+WARNING 2024-01-29 16:13:45,576 log 28172 29460 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:13:45,584 log 28172 21456 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:13:45,586 log 28172 6112 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:13:45,589 basehttp 28172 29460 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:13:45,590 basehttp 28172 21456 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:13:45,591 basehttp 28172 6112 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:13:45,597 log 28172 19948 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:13:45,599 basehttp 28172 19948 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:14:42,619 basehttp 28172 22096 "GET /hmt/product_list/ HTTP/1.1" 200 1137
+WARNING 2024-01-29 16:14:42,658 log 28172 22096 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:14:42,663 basehttp 28172 22096 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:14:42,699 log 28172 28820 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:14:42,705 basehttp 28172 28820 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:14:42,723 log 28172 23868 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:14:42,729 log 28172 18604 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:14:42,731 basehttp 28172 23868 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:14:42,731 basehttp 28172 18604 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:19:05,832 autoreload 5348 27864 Watching for file changes with StatReloader
+INFO 2024-01-29 16:19:09,834 basehttp 5348 28796 "GET /hmt/product_list/ HTTP/1.1" 200 1137
+WARNING 2024-01-29 16:19:10,177 log 5348 24148 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:19:10,179 log 5348 29292 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:19:10,181 log 5348 4516 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:19:10,183 log 5348 28796 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:19:10,184 basehttp 5348 24148 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:19:10,185 basehttp 5348 29292 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:19:10,186 basehttp 5348 4516 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:19:10,187 basehttp 5348 28796 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+INFO 2024-01-29 16:22:11,720 autoreload 26840 29000 Watching for file changes with StatReloader
+INFO 2024-01-29 16:22:18,423 basehttp 26840 18848 "GET /hmt/upload/ HTTP/1.1" 200 1699
+INFO 2024-01-29 16:22:30,434 basehttp 26840 12796 "POST /hmt/upload/ HTTP/1.1" 200 1707
+INFO 2024-01-29 16:22:40,405 basehttp 26840 21248 "GET /hmt/product_list/ HTTP/1.1" 200 1243
+WARNING 2024-01-29 16:22:40,479 log 26840 29252 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:22:40,482 log 26840 21248 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:22:40,488 basehttp 26840 29252 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:22:40,489 basehttp 26840 21248 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:22:40,520 log 26840 3664 Not Found: /media/hmt/santoku-knife_akAgJir.png
+WARNING 2024-01-29 16:22:40,567 basehttp 26840 3664 "GET /media/hmt/santoku-knife_akAgJir.png HTTP/1.1" 404 2706
+WARNING 2024-01-29 16:22:40,573 log 26840 29388 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:22:40,609 basehttp 26840 29388 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:22:40,643 log 26840 27292 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:22:40,644 basehttp 26840 27292 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:28:31,495 basehttp 26840 28764 "GET /hmt/product_list/ HTTP/1.1" 200 1243
+WARNING 2024-01-29 16:28:31,552 log 26840 28764 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:28:31,556 log 26840 28216 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:28:31,562 basehttp 26840 28216 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:28:31,562 basehttp 26840 28764 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:28:31,614 log 26840 24296 Not Found: /media/hmt/santoku-knife_akAgJir.png
+WARNING 2024-01-29 16:28:31,617 log 26840 23504 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:28:31,619 basehttp 26840 24296 "GET /media/hmt/santoku-knife_akAgJir.png HTTP/1.1" 404 2706
+WARNING 2024-01-29 16:28:31,626 log 26840 14872 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:28:31,628 basehttp 26840 23504 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:28:31,644 basehttp 26840 14872 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:32:12,974 log 26840 25040 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:32:12,975 basehttp 26840 25040 "GET //media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:32:19,824 log 26840 25040 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:32:19,826 basehttp 26840 25040 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+INFO 2024-01-29 16:45:02,755 basehttp 26840 21700 "GET /hmt/upload/ HTTP/1.1" 200 1699
+WARNING 2024-01-29 16:45:24,730 log 26840 22792 Not Found: /poduct_list
+WARNING 2024-01-29 16:45:24,746 basehttp 26840 22792 "GET /poduct_list HTTP/1.1" 404 2634
+WARNING 2024-01-29 16:45:29,486 log 26840 8264 Not Found: /poduct_list
+WARNING 2024-01-29 16:45:29,488 basehttp 26840 8264 "GET /poduct_list HTTP/1.1" 404 2634
+INFO 2024-01-29 16:45:43,117 basehttp 26840 23172 "GET /hmt/product_list/ HTTP/1.1" 200 1243
+WARNING 2024-01-29 16:45:43,185 log 26840 23172 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:45:43,204 log 26840 27220 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:45:43,214 basehttp 26840 23172 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:45:43,229 basehttp 26840 27220 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:45:43,265 log 26840 21432 Not Found: /media/hmt/santoku-knife_akAgJir.png
+WARNING 2024-01-29 16:45:43,277 log 26840 26532 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:45:43,436 log 26840 21852 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:45:43,450 basehttp 26840 21432 "GET /media/hmt/santoku-knife_akAgJir.png HTTP/1.1" 404 2706
+WARNING 2024-01-29 16:45:43,452 basehttp 26840 26532 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:45:43,465 basehttp 26840 21852 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:46:01,256 basehttp 26840 21852 "GET /hmt/product_list/ HTTP/1.1" 200 1243
+WARNING 2024-01-29 16:46:01,321 log 26840 26532 Not Found: /media/hmt/little_knife_z0Ztdvi.jpg
+WARNING 2024-01-29 16:46:01,335 basehttp 26840 26532 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:46:01,346 log 26840 23172 Not Found: /media/hmt/santoku-knife_akAgJir.png
+WARNING 2024-01-29 16:46:01,351 basehttp 26840 23172 "GET /media/hmt/santoku-knife_akAgJir.png HTTP/1.1" 404 2706
+WARNING 2024-01-29 16:46:01,355 log 26840 21852 Not Found: /media/hmt/little_knife.jpg
+WARNING 2024-01-29 16:46:01,356 log 26840 27220 Not Found: /media/hmt/little_knife_Slt1T4n.jpg
+WARNING 2024-01-29 16:46:01,362 log 26840 21432 Not Found: /media/hmt/little_knife_7yeNGJi.jpg
+WARNING 2024-01-29 16:46:01,362 basehttp 26840 21852 "GET /media/hmt/little_knife.jpg HTTP/1.1" 404 2679
+WARNING 2024-01-29 16:46:01,363 basehttp 26840 27220 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 404 2703
+WARNING 2024-01-29 16:46:01,364 basehttp 26840 21432 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 404 2703
+INFO 2024-01-29 16:51:41,784 autoreload 29360 3636 Watching for file changes with StatReloader
+INFO 2024-01-29 16:51:46,880 basehttp 29360 20408 "GET /hmt/product_list/ HTTP/1.1" 200 1243
+INFO 2024-01-29 16:51:47,389 basehttp 29360 20408 "GET /media/hmt/little_knife.jpg HTTP/1.1" 200 241670
+INFO 2024-01-29 16:51:47,391 basehttp 29360 17048 "GET /media/hmt/little_knife_Slt1T4n.jpg HTTP/1.1" 200 241670
+INFO 2024-01-29 16:51:47,443 basehttp 29360 29356 "GET /media/hmt/santoku-knife_akAgJir.png HTTP/1.1" 200 17769
+INFO 2024-01-29 16:51:47,451 basehttp 29360 28396 "GET /media/hmt/little_knife_z0Ztdvi.jpg HTTP/1.1" 200 241670
+INFO 2024-01-29 16:51:47,485 basehttp 29360 25492 "GET /media/hmt/little_knife_7yeNGJi.jpg HTTP/1.1" 200 241670
+INFO 2024-01-29 16:52:31,286 basehttp 29360 28384 "GET /hmt/product_list/ HTTP/1.1" 200 1238
+INFO 2024-01-29 16:53:01,934 basehttp 29360 12736 "GET /hmt/product_list/ HTTP/1.1" 200 1280

@@ -18,6 +18,7 @@ class Product(models.Model):
     price = models.DecimalField(max_digits=8, decimal_places=2)
     quantity = models.IntegerField()
     adding_date = models.DateTimeField(auto_now_add=True)
+    image = models.ImageField(upload_to='hmt/', blank=True, null=True)
 
     def __str__(self):
         return f'Product name: {self.name}, quantity: {self.quantity}'

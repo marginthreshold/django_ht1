@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}Product list{% endblock %}
+
+{% block content %}
+<h2>Product list</h2>
+<table>
+    {% for product in products %}
+    <tr>
+        <td>Product name {{ product.name }}<td>
+        <td>{% if product.image %}
+            <img src="{{ product.image.url }}" alt="{{ product.name }} Image" width="50">
+            {% endif %}
+        <td>
+
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}
