@@ -1,0 +1,19 @@
+{% extends 'main.html' %}
+{% load static %}
+{% block title %}{{ recipe.name }}{% endblock %}
+
+{% block content %}
+<div class="recipe-detailed">
+<h2>{{ recipe.name }}</h2>
+<p> <img src="{{ recipe.image.url }}" alt="{{ recipe.name }} Image" width="250"></p>
+<p>{{ recipe.description }}</p>
+<p>Preparation Time: {{ recipe.cooking_time }} minutes</p>
+<p>Steps:</p>
+    {{ recipe.cooking_steps }}
+<p>Author: {{ recipe.author}}</p>
+{% if request.user.username == recipe.author %}
+<a href="{% url 'recipe_edit' pk=recipe.pk %}">Редактировать Рецепт</a>
+{% endif %}
+</div>
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends 'main.html' %}
+{% load static %}
+{% block title %}Рецепты{% endblock %}
+
+{% block content %}
+<h2 class="best-recipes">Лучшие рецепты</h2>
+  <div class="recipe-list">
+    {% for recipe in recipes %}
+    <div class="recipe-item">
+    <td>{% if recipe.image %}
+            <img src="{{ recipe.image.url }}" alt="{{ recipe.name }} Image" width="200">
+        {% else %}
+          <p>Картинка еще не загружена</p>
+        {% endif %}
+    <td>
+    <p><a href="{% url 'recipe_detail' pk=recipe.pk %}">{{ recipe.name }}</a></p>
+    <p>{{ recipe.description }}</p>
+    </div>
+    {% endfor %}
+</div>
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+{% endblock %}

@@ -27,9 +27,11 @@ urlpatterns = [
     path('les3/', include('myapp3.urls')),
     path('', index),
     path('les4/', include('myapp4.urls')),
-    # path('__debug__/', include('debug_toolbar.urls')),
+    path('__debug__/', include('debug_toolbar.urls')),
     path('les6/', include('myapp6.urls')),
+    path('recipes/', include('recipes_app.urls')),
 ]
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+    # urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

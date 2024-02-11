@@ -8,3 +8,4 @@ class User(models.Model):
 
     def __str__(self):
         return f'Name: {self.name}, email: {self.email}, age:{self.age}'
+
